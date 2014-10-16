@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[caf:home|Door43 (caf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-caf|d43-caf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-caf/archive/master.zip|d43-caf.zip]]
+
+**Recent Changes**
+{{changes>ns = caf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/caf|Ethnologue data]]
+
